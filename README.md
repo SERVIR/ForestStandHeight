@@ -13,3 +13,5 @@ Section 3 - preprocess ALOS PALSAR data in ISCE - in progress, need to test erro
 Section 4 - run forest stand height algorithm - placeholder, edits needed: change to include info on how to add data to the directory in Google Drive rather than using the preprocessed data, include more info about script, set up and breakdown of the command line
 
 Section 5 - apply forest stand height - complete, potentially minor edits
+
+Add another folder for scripts edited for use in Jupyter notebooks to be run on your personal machine
